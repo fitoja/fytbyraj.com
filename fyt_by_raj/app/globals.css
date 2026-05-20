@@ -198,7 +198,7 @@ input {
   color: rgba(255, 255, 255, 0.86);
   font-size: clamp(17px, 2vw, 22px);
   line-height: 1.65;
-  max-width: 680px;
+  max-width: 470px !important;
 }
 
 .eyebrow {

@@ -123,7 +123,7 @@ export default function Home() {
           </figure>
           <figure className="image-tile image-tile--contain">
             <Image
-              src="/assets/rituraj-award-ceremony.jpeg"
+              src="/assets/rituraj_pema_khandu.jpg"
               alt="FYTBYRAJ award ceremony"
               width={739}
               height={851}

@@ -63,7 +63,7 @@ export default function AboutPage() {
           <div className="about-split">
             <figure className="about-split__image">
               <Image
-                src="/assets/rituraj-award-presentation.jpeg"
+                src="/assets/rituraj-boby-devol.jpg"
                 alt="Rituraj Sharma receiving wellness industry recognition"
                 width={853}
                 height={985}
